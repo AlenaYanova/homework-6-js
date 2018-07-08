@@ -1,0 +1,14 @@
+{
+  "name": "homework-6-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TheGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alena Yanova",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
